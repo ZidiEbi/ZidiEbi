@@ -1,6 +1,8 @@
 ## Get to know me
 Hi!
+
 My name is Zidi (pronounced Zeedee)
+
 👩‍💻 I'm currently working on building Personal projects with HTML, CSS and  JavaScript
 
 🧠 I'm currently learning JavaScript
